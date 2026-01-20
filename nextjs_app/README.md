@@ -4,8 +4,8 @@ A visually appealing and responsive mood tracking application built with Next.js
 
 ## Images
 
-![App Screenshot 1](images.png)
-![App Screenshot 2](images2.png)
+![App Screenshot 1](Images/images.png)
+![App Screenshot 2](Images/images2.png)
 ## Features
 
 - **Mood Selection**: Choose from three mood options (Happy 😊, Sad 😢, Neutral 😐)
