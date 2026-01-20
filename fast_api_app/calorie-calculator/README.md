@@ -4,7 +4,7 @@ A simple FastAPI application that calculates calories burned based on activity, 
 
 ## 🖼️ Application Overview
 
-![Docker Container Running](images/image-1.png "Docker Container Running")
+![Docker Container Running](Images/image-1.png "Docker Container Running")
 
 ## 🔥 Features
 
@@ -16,7 +16,7 @@ A simple FastAPI application that calculates calories burned based on activity, 
 
 ## 🐳 Docker Deployment
 
-![API Running in Docker](images/images-2.png "API Running in Docker Container")
+![API Running in Docker](Images/images-2.png "API Running in Docker Container")
 
 ## 🛠️ Tech Stack
 
